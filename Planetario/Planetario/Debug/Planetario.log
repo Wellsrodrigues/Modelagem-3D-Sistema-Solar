@@ -1,0 +1,18 @@
+﻿  Planetas.cpp
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(34,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(220,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(231,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(252,26): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(265,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(298,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(309,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(325,49): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(403,19): warning C4305: '-=': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(404,17): warning C4305: '-=': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(405,17): warning C4305: '-=': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(406,16): warning C4305: '-=': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(407,16): warning C4305: '-=': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(409,18): warning C4305: '-=': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(410,18): warning C4305: '-=': truncamento de 'double' para 'GLfloat'
+C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Planetario\Planetas.cpp(411,17): warning C4305: '-=': truncamento de 'double' para 'GLfloat'
+  Planetario.vcxproj -> C:\Users\Wellison\OneDrive\Documentos\Visual Studio 2022\Projects\Planetario\Debug\Planetario.exe
